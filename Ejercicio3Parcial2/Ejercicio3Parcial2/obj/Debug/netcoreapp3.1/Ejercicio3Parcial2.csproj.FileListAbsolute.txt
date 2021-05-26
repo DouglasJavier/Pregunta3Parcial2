@@ -1,0 +1,15 @@
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\bin\Debug\netcoreapp3.1\Ejercicio3Parcial2.exe
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\bin\Debug\netcoreapp3.1\Ejercicio3Parcial2.deps.json
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\bin\Debug\netcoreapp3.1\Ejercicio3Parcial2.runtimeconfig.json
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\bin\Debug\netcoreapp3.1\Ejercicio3Parcial2.runtimeconfig.dev.json
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\bin\Debug\netcoreapp3.1\Ejercicio3Parcial2.dll
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\bin\Debug\netcoreapp3.1\Ejercicio3Parcial2.pdb
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\obj\Debug\netcoreapp3.1\Ejercicio3Parcial2.csprojAssemblyReference.cache
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\obj\Debug\netcoreapp3.1\Ejercicio3Parcial2.Form1.resources
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\obj\Debug\netcoreapp3.1\Ejercicio3Parcial2.csproj.GenerateResource.cache
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\obj\Debug\netcoreapp3.1\Ejercicio3Parcial2.AssemblyInfoInputs.cache
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\obj\Debug\netcoreapp3.1\Ejercicio3Parcial2.AssemblyInfo.cs
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\obj\Debug\netcoreapp3.1\Ejercicio3Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\obj\Debug\netcoreapp3.1\Ejercicio3Parcial2.dll
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\obj\Debug\netcoreapp3.1\Ejercicio3Parcial2.pdb
+C:\Users\douglas\source\repos\Ejercicio3Parcial2\Ejercicio3Parcial2\obj\Debug\netcoreapp3.1\Ejercicio3Parcial2.genruntimeconfig.cache
